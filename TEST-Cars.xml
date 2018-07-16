@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+	<testsuite tests="3" errors="0" failures="0" time="2.018" timestamp="2018-07-16T16:35:52">
+		<testcase classname="Cars" name="formatCars turns car JSON into Bootstrapped HTML" time="0.004">
+		</testcase>
+		<testcase classname="Cars" name="addCarsToDOM accepts JSON, sends it to formatCars(), and adds return HTML to page" time="0.005">
+		</testcase>
+		<testcase classname="Cars" name="fetchJSON queries API for the correct listing and passes returned data to addCarsToDOM()" time="2.008">
+		</testcase>
+	</testsuite>
+</testsuites>
+
